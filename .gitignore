@@ -1,0 +1,13 @@
+테스트용/
+결과/
+test1/
+raw_data (구Ver.)/
+raw/
+Past_version_Effort/
+DOE/
+
+__pycache__/
+class Prophet.docx
+filtered_target.xlsx
+target.xlsx
+target1.xlsx
